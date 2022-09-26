@@ -1,0 +1,1 @@
+Python script for detect IP addresses and subnets attacking own server (port scanning, open ports detections and failed authentication requests...) mainly analyzing /var/log/messages and /var/log/auth.log files
